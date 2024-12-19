@@ -1,4 +1,4 @@
-### the Round2 Reference Implementation of qruov
+### the Round 2 Reference Implementation of qruov
 - Fri Dec 13 07:17:14 JST 2024
   - released.
   - done:
