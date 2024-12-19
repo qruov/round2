@@ -34,6 +34,8 @@ How to build:
    make
 ```
 3. Make sure the file qruov_tau.h has been created if necessary.
+   For example, if you are using ubuntu, type the following into
+   the command line shell.
 ```
    cat qruov_tau.h
 ```
