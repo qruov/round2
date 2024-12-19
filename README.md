@@ -1,6 +1,6 @@
-### qruov
+### the Round2 Reference Implementation of qruov
 - Fri Dec 13 07:17:14 JST 2024
-  - version 2 is released.
+  - released.
   - done:
     - ref vectorization
     - avx2 vectorization
@@ -15,5 +15,3 @@
       - strassen algorithm
       - krylov subspace methods
       - montgomery reduction
-- Wed May 31 03:08:39 JST 2023
-  - version 1 is released.
