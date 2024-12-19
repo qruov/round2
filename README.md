@@ -1,2 +1,19 @@
-# round1
-# round2
+### qruov
+- Fri Dec 13 07:17:14 JST 2024
+  - version 2 is released.
+  - done:
+    - ref vectorization
+    - avx2 vectorization
+    - avx512 vectorization
+  - todo:
+    - portable64 vectorization
+    - secret independent
+      - constant time
+        - rejection sampling
+        - linear equation solver
+    - pending
+      - strassen algorithm
+      - krylov subspace methods
+      - montgomery reduction
+- Wed May 31 03:08:39 JST 2023
+  - version 1 is released.
