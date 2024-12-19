@@ -11,7 +11,3 @@
       - constant time
         - rejection sampling
         - linear equation solver
-    - pending
-      - strassen algorithm
-      - krylov subspace methods
-      - montgomery reduction
