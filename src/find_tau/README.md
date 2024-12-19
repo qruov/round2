@@ -33,3 +33,7 @@ How to build:
 ```
    make
 ```
+3. Make sure the file qruov_tau.h has been created if necessary.
+```
+   cat qruov_tau.h
+```
